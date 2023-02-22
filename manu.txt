@@ -1,7 +1,10 @@
-this is my first git proj
+
+his is my first git proj
 im very much intrested in Full stack web development
 im leanring thiis corse using UPGArD
 
 
 this is new commit im modifing now . 
-
+now im doing this because i have craeted a clone into thus repository
+this is a new file which i have craeted for cloning 
+now im commiting this lets see wht happens
